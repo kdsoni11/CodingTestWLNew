@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodingTestWL</string>
+    <string name="download">Download</string>
+    <string name="this_is_description_text">This is description text</string>
+    <string name="this_is_title">This is title</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="refresh">Refresh</string>
+</resources>
